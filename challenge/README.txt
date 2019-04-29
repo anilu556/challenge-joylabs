@@ -15,5 +15,3 @@ $ cd day1 or $ cd day2
 
 (4) Run server
 nodemon start
-
-```
