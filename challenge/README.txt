@@ -10,7 +10,7 @@ $ git clone https://github.com/anilu556/challenge-joylabs.git
 (2) Go inside the directory challenge
 $ cd challenge
 
-(3) Go inside the any directory (day1 or day2)
+(3) Go inside any directory (day1 or day2)
 $ cd day1 or $ cd day2
 
 (4) Run server
